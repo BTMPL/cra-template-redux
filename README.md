@@ -6,7 +6,9 @@ The official Redux+JS template for [Create React App](https://github.com/faceboo
 ## usage
 
 ```sh
-npx create-react-app my-app --template redux
+npm create react-app my-app --template redux
+# as an alternative, you can use yarn:
+# yarn create react-app my-app --template redux
 cd my-app
 npm start
 ```
